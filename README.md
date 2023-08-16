@@ -12,5 +12,5 @@
 - Presentation: PowerPoint highlighting model accuracy and key predictors.
 
 ## Links
-- [Program]([https://www.forage.com](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science)])
+- [Program](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science)
 - [Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_onAqpwK8NtGJMwiRJ_1692161410037_completion_certificate.pdf)
