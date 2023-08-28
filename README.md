@@ -4,12 +4,12 @@
 - Web Scraping: Extracted unstructured customer reviews from [Airline Quality website](https://www.airlinequality.com/airline-reviews/british-airways).
 - Sentiment Analysis: Utilized NLP techniques to classify reviews as positive or negative.
 - Insights: Identified service aspects with positive/negative feedback trends.
-- Presentation: PowerPoint with visualized sentiments and analysis.
+- Presentation: PowerPoint with visualized sentiments and analysis. File named as BA - Task 1.pptx
 
 ## Task 2: Predicting Customer Buying Behavior 
-- Used ML model to predict customer purchases.
-- Insights: Determined factors influencing buying behaviour.
-- Presentation: PowerPoint highlighting model accuracy and key predictors.
+- Used ML model to predict which factors affect bookings.
+- Insights: Determined factors influencing booking behaviours.
+- Presentation: PowerPoint highlighting model accuracy and key predictors. File named as BA - Task 2.pptx
 
 ## Links
 - [Program](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science)
