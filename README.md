@@ -7,7 +7,7 @@
 - Presentation: PowerPoint with visualized sentiments and analysis.
 
 ## Task 2: Predicting Customer Buying Behavior 
-- Classification Model: Developed ML model to predict customer purchases.
+- Used ML model to predict customer purchases.
 - Insights: Determined factors influencing buying behaviour.
 - Presentation: PowerPoint highlighting model accuracy and key predictors.
 
