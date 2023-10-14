@@ -5,7 +5,6 @@
 - Sentiment Analysis: Utilized NLP techniques to classify reviews as positive or negative.
 - Insights: Identified service aspects with positive/negative feedback trends.
 - Presentation: PowerPoint with visualized sentiments and analysis. File named as BA - Task 1.pptx
-- For more details please refer to - https://paulpagefolio.framer.ai/blog/web-scraping-to-get-company-insights
 
 ## Task 2: Predicting Customer Buying Behavior 
 - Used ML model to predict which factors affect bookings.
