@@ -11,7 +11,6 @@
 - Used ML model to predict which factors affect bookings.
 - Insights: Determined factors influencing booking behaviours.
 - Presentation: PowerPoint highlighting model accuracy and key predictors. File named as BA - Task 2.pptx
-- For more details please refer to - https://paulpagefolio.framer.ai/blog/predicting-customer-buying-behaviour
 
 ## Links
 - [Program](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science)
